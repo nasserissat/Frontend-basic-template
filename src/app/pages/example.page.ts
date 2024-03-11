@@ -7,6 +7,7 @@ import { ToastrService } from "ngx-toastr";
     <h1 class="text-3xl font-bold underline text-success">
         Hello world!
     </h1>
+    <fa-icon icon="eye"></fa-icon>
     `,
     styles: []
 })
